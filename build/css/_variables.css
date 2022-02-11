@@ -12,4 +12,6 @@
   --color-colors-teal: #53c2c2;
   --color-colors-teal-light: rgba(83, 194, 194, 0.75);
   --grid-grid: [object Object];
+  --effect-dropshadow: [object Object];
+  --effect-inner-shadow: [object Object];
 }
