@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 14:53:52 GMT
+// Generated on Mon, 14 Feb 2022 14:56:22 GMT
 
 
 import UIKit
@@ -23,6 +23,7 @@ public class StyleDictionary {
     public static let effectInnerShadow = [object Object]
     public static let gridGrid = [object Object]
     public static let spacing10 = [object Object]
+    public static let spacing16 = [object Object]
     public static let spacing20 = [object Object]
     public static let spacing30 = [object Object]
 }
