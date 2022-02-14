@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 14:58:06 GMT
+// Generated on Mon, 14 Feb 2022 15:02:15 GMT
 
 
 import UIKit
@@ -26,4 +26,5 @@ public class StyleDictionary {
     public static let spacing20 = [object Object]
     public static let spacing30 = [object Object]
     public static let spacing54 = [object Object]
+    public static let spacingTest = [object Object]
 }

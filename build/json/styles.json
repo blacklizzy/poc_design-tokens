@@ -6,6 +6,7 @@
   "Spacing20": {"top":20,"bottom":20,"left":20,"right":20},
   "Spacing30": {"top":30,"bottom":30,"left":30,"right":30},
   "Spacing54": {"top":10,"bottom":10,"left":10,"right":10},
+  "SpacingTest": {"top":16,"bottom":16,"left":16,"right":16},
   "ColorGrey": "#c4c4c4",
   "ColorRobinGroenholmGreen": "#21ce7b",
   "ColorBrandBeige": "#faf8f2",
