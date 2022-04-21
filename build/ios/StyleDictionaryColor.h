@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Apr 2022 08:50:50 GMT
+// Generated on Thu, 21 Apr 2022 11:27:20 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -14,7 +14,7 @@ ColorGrey,
 ColorRaphaelBlue,
 ColorBrandBeige,
 ColorBrandWhite,
-ColorColorsTeal,
+ColorColorsHejsan,
 ColorColorsTealLight
 };
 
